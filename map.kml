@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled map</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>TCB</name>
+			<Placemark>
+				<name>1400 N.W 56th St., Seattle, 98107, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1400 N.W 56th St., Seattle, 98107,</address>
+			</Placemark>
+			<Placemark>
+				<name>20150 Ballinger Way NE, Shoreline, 98155, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>20150 Ballinger Way NE, Shoreline, 98155,</address>
+			</Placemark>
+			<Placemark>
+				<name>1220 N Forest St, Bellingham, 98225, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1220 N Forest St, Bellingham, 98225,</address>
+			</Placemark>
+			<Placemark>
+				<name>315 Westerly Rd, Bellingham, 98226, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>315 Westerly Rd, Bellingham, 98226,</address>
+			</Placemark>
+			<Placemark>
+				<name>1600 E. Madison St, Seattle, 98122, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1600 E. Madison St, Seattle, 98122,</address>
+			</Placemark>
+			<Placemark>
+				<name>15605 Main St, Mill Creek, 98012, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>15605 Main St, Mill Creek, 98012,</address>
+			</Placemark>
+			<Placemark>
+				<name>20148 10th Ave. NE, Poulsbo, 98370, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>20148 10th Ave. NE, Poulsbo, 98370,</address>
+			</Placemark>
+			<Placemark>
+				<name>15505 Westminster Way N., Shoreline, 98133, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>15505 Westminster Way N., Shoreline, 98133,</address>
+			</Placemark>
+			<Placemark>
+				<name>7320 Lakewood Dr W, Lakewood, 98467, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>7320 Lakewood Dr W, Lakewood, 98467,</address>
+			</Placemark>
+			<Placemark>
+				<name>1406 Lake Tapps Parkway E, Auburn, 98092, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1406 Lake Tapps Parkway E, Auburn, 98092,</address>
+			</Placemark>
+			<Placemark>
+				<name>2814 Meridian St, Bellingham, 98225, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2814 Meridian St, Bellingham, 98225,</address>
+			</Placemark>
+			<Placemark>
+				<name>1401 12th St, Bellingham, 98225, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1401 12th St, Bellingham, 98225,</address>
+			</Placemark>
+			<Placemark>
+				<name>210 36th St, Bellingham, 98225, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>210 36th St, Bellingham, 98225,</address>
+			</Placemark>
+			<Placemark>
+				<name>2900 Woburn, Bellingham, 98226, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2900 Woburn, Bellingham, 98226,</address>
+			</Placemark>
+			<Placemark>
+				<name>757 Haggen Drive, Burlington, 98233, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>757 Haggen Drive, Burlington, 98233,</address>
+			</Placemark>
+			<Placemark>
+				<name>1815 Main St, Ferndale, 98248, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1815 Main St, Ferndale, 98248,</address>
+			</Placemark>
+			<Placemark>
+				<name>2601 E. Division, Mount Vernon, 98273, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2601 E. Division, Mount Vernon, 98273,</address>
+			</Placemark>
+			<Placemark>
+				<name>1301 Ave D, Snohomish, 98290, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1301 Ave D, Snohomish, 98290,</address>
+			</Placemark>
+			<Placemark>
+				<name>26603 72nd Ave NW, Stanwood, 98292, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>26603 72nd Ave NW, Stanwood, 98292,</address>
+			</Placemark>
+			<Placemark>
+				<name>2121 6th Ave, Seattle, 98121, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2121 6th Ave, Seattle, 98121,</address>
+			</Placemark>
+			<Placemark>
+				<name>7231 Greenwood Ave N., Seattle, 98103, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>7231 Greenwood Ave N., Seattle, 98103,</address>
+			</Placemark>
+			<Placemark>
+				<name>2919 Fuhrman Ave E, Seattle, 98102, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2919 Fuhrman Ave E, Seattle, 98102,</address>
+			</Placemark>
+			<Placemark>
+				<name>5010 Point Fodick Dr NW, Gig Harbor, 98335, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>5010 Point Fodick Dr NW, Gig Harbor, 98335,</address>
+			</Placemark>
+			<Placemark>
+				<name>4416 Fremont Ave N, Seattle, 98103, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4416 Fremont Ave N, Seattle, 98103,</address>
+			</Placemark>
+			<Placemark>
+				<name>2565 S. Gateway Center Plaza, Federal Way, 98003, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2565 S. Gateway Center Plaza, Federal Way, 98003,</address>
+			</Placemark>
+			<Placemark>
+				<name>2951 S 38th St, Tacoma, 98409, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2951 S 38th St, Tacoma, 98409,</address>
+			</Placemark>
+			<Placemark>
+				<name>10611 NE 68th St, Kirkland, , </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>10611 NE 68th St, Kirkland, ,</address>
+			</Placemark>
+			<Placemark>
+				<name>2320 42nd Ave SW, Seattle, , </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2320 42nd Ave SW, Seattle, ,</address>
+			</Placemark>
+			<Placemark>
+				<name>100 Mercer St, Seattle, , </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>100 Mercer St, Seattle, ,</address>
+			</Placemark>
+			<Placemark>
+				<name>5250 40th Ave NE, Seattle, , </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>5250 40th Ave NE, Seattle, ,</address>
+			</Placemark>
+			<Placemark>
+				<name>3830 34th Ave W, Seattle, , </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>3830 34th Ave W, Seattle, ,</address>
+			</Placemark>
+			<Placemark>
+				<name>2420 N. Proctor St, Tacoma, , </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2420 N. Proctor St, Tacoma, ,</address>
+			</Placemark>
+			<Placemark>
+				<name>2755 77th Ave SE, Mercer Island, 98040, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2755 77th Ave SE, Mercer Island, 98040,</address>
+			</Placemark>
+			<Placemark>
+				<name>3111 Pacific Ave SE, Olympia, 98501, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>3111 Pacific Ave SE, Olympia, 98501,</address>
+			</Placemark>
+			<Placemark>
+				<name>921 Rogers St NW, Olympia, 98502, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>921 Rogers St NW, Olympia, 98502,</address>
+			</Placemark>
+			<Placemark>
+				<name>6514 40th Ave. N.E., Seattle, 98115, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>6514 40th Ave. N.E., Seattle, 98115,</address>
+			</Placemark>
+			<Placemark>
+				<name>2261 Bothell Everett Hwy, Bothell, 98021, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2261 Bothell Everett Hwy, Bothell, 98021,</address>
+			</Placemark>
+			<Placemark>
+				<name>9803 Edmonds Way, Edmonds, 98020, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>9803 Edmonds Way, Edmonds, 98020,</address>
+			</Placemark>
+			<Placemark>
+				<name>1810 12th Ave NW, Issaquah, 98027, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1810 12th Ave NW, Issaquah, 98027,</address>
+			</Placemark>
+			<Placemark>
+				<name>11435 Avondale Rd NE, Redmond, 98052, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>11435 Avondale Rd NE, Redmond, 98052,</address>
+			</Placemark>
+			<Placemark>
+				<name>3610 S. Edmunds St, Seattle, 98118, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>3610 S. Edmunds St, Seattle, 98118,</address>
+			</Placemark>
+			<Placemark>
+				<name>600 N. 34th St, Seattle, 98103, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>600 N. 34th St, Seattle, 98103,</address>
+			</Placemark>
+			<Placemark>
+				<name>7504 Aurora Ave N, Seattle, 98103, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>7504 Aurora Ave N, Seattle, 98103,</address>
+			</Placemark>
+			<Placemark>
+				<name>450 NE 71st St, Seattle, 98115, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>450 NE 71st St, Seattle, 98115,</address>
+			</Placemark>
+			<Placemark>
+				<name>2479 California Ave SW, Seattle, 98116, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2479 California Ave SW, Seattle, 98116,</address>
+			</Placemark>
+			<Placemark>
+				<name>1514 Pike Pl #3, Seattle, 98101, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1514 Pike Pl #3, Seattle, 98101,</address>
+			</Placemark>
+			<Placemark>
+				<name>18325 Shoreline Ave N, Shoreline, 98133, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>18325 Shoreline Ave N, Shoreline, 98133,</address>
+			</Placemark>
+			<Placemark>
+				<name>15800 Redmond Way, Redmond, 98052, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>15800 Redmond Way, Redmond, 98052,</address>
+			</Placemark>
+			<Placemark>
+				<name>3550 Factoria Blvd SE, Bellevue, 98006, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>3550 Factoria Blvd SE, Bellevue, 98006,</address>
+			</Placemark>
+			<Placemark>
+				<name>2902 228th Ave SE, Sammamish, 98075, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2902 228th Ave SE, Sammamish, 98075,</address>
+			</Placemark>
+			<Placemark>
+				<name>4550 42nd Ave SW, Seattle, 98116, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4550 42nd Ave SW, Seattle, 98116,</address>
+			</Placemark>
+			<Placemark>
+				<name>15600 NE 8th St, Bellevue, 98008, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>15600 NE 8th St, Bellevue, 98008,</address>
+			</Placemark>
+			<Placemark>
+				<name>460 E. North Bend Way, North Bend, 98045, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>460 E. North Bend Way, North Bend, 98045,</address>
+			</Placemark>
+			<Placemark>
+				<name>4101 49th Ave NE, Tacoma, 98422, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4101 49th Ave NE, Tacoma, 98422,</address>
+			</Placemark>
+			<Placemark>
+				<name>11700 Mukilteo Speedway, Mukilteo, 98275, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>11700 Mukilteo Speedway, Mukilteo, 98275,</address>
+			</Placemark>
+			<Placemark>
+				<name>7500-B 196th Street S.W., Lynnwood, 98036, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>7500-B 196th Street S.W., Lynnwood, 98036,</address>
+			</Placemark>
+			<Placemark>
+				<name>14130 Juanita Drive N.E., Kirkland, 98038, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>14130 Juanita Drive N.E., Kirkland, 98038,</address>
+			</Placemark>
+			<Placemark>
+				<name>7823 SE 28th Street, Mercer Island, 98040, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>7823 SE 28th Street, Mercer Island, 98040,</address>
+			</Placemark>
+			<Placemark>
+				<name>4570 Klahanie Dr SE, Issaquah, 98029, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4570 Klahanie Dr SE, Issaquah, 98029,</address>
+			</Placemark>
+			<Placemark>
+				<name>1401 Broadway Avenue, Seattle, 98122, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1401 Broadway Avenue, Seattle, 98122,</address>
+			</Placemark>
+			<Placemark>
+				<name>2707 Rainier Ave S, Seattle, 98144, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2707 Rainier Ave S, Seattle, 98144,</address>
+			</Placemark>
+			<Placemark>
+				<name>22833 Bothell-Everett Hwy, Bothell, 98201, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>22833 Bothell-Everett Hwy, Bothell, 98201,</address>
+			</Placemark>
+			<Placemark>
+				<name>22828 100th Ave W, Edmonds, 98020, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>22828 100th Ave W, Edmonds, 98020,</address>
+			</Placemark>
+			<Placemark>
+				<name>4919 Evergreen Way, Everett, 98203, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4919 Evergreen Way, Everett, 98203,</address>
+			</Placemark>
+			<Placemark>
+				<name>2615 Broadway, Everett, 98201, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2615 Broadway, Everett, 98201,</address>
+			</Placemark>
+			<Placemark>
+				<name>926 164th St SE, Mill Creek, 98012, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>926 164th St SE, Mill Creek, 98012,</address>
+			</Placemark>
+			<Placemark>
+				<name>22803 44th Ave W, Mountlake Terrace, 98043, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>22803 44th Ave W, Mountlake Terrace, 98043,</address>
+			</Placemark>
+			<Placemark>
+				<name>1531 NE 14th St, Seattle, 98155, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1531 NE 14th St, Seattle, 98155,</address>
+			</Placemark>
+			<Placemark>
+				<name>8867 161st Ave NE, Redmond, 98052, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>8867 161st Ave NE, Redmond, 98052,</address>
+			</Placemark>
+			<Placemark>
+				<name>1009 Monroe Ave, Enumclaw, 98022, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1009 Monroe Ave, Enumclaw, 98022,</address>
+			</Placemark>
+			<Placemark>
+				<name>6600 Roosevelt Way NE, Seattle, 98115, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>6600 Roosevelt Way NE, Seattle, 98115,</address>
+			</Placemark>
+			<Placemark>
+				<name>4500 Wallingford Ave N, Seattle, 98103, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4500 Wallingford Ave N, Seattle, 98103,</address>
+			</Placemark>
+			<Placemark>
+				<name>9999 Holman Rd NW, Seattle, 98117, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>9999 Holman Rd NW, Seattle, 98117,</address>
+			</Placemark>
+			<Placemark>
+				<name>8400 35th Ave NE, Seattle, 98115, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>8400 35th Ave NE, Seattle, 98115,</address>
+			</Placemark>
+			<Placemark>
+				<name>23475 NE Novelty Hill Rd, Redmond, 98053, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>23475 NE Novelty Hill Rd, Redmond, 98053,</address>
+			</Placemark>
+			<Placemark>
+				<name>27008 92nd Ave NW, Stanwood, 98292, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>27008 92nd Ave NW, Stanwood, 98292,</address>
+			</Placemark>
+			<Placemark>
+				<name>500 Mercer St, Seattle, 98109, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>500 Mercer St, Seattle, 98109,</address>
+			</Placemark>
+			<Placemark>
+				<name>4550 42nd Avenue S.W., Seattle, 98116, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4550 42nd Avenue S.W., Seattle, 98116,</address>
+			</Placemark>
+			<Placemark>
+				<name>417 Broadway Avenue East, Seattle, 98102, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>417 Broadway Avenue East, Seattle, 98102,</address>
+			</Placemark>
+			<Placemark>
+				<name>5700 24th Avenue N.W., Seattle, 98107, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>5700 24th Avenue N.W., Seattle, 98107,</address>
+			</Placemark>
+			<Placemark>
+				<name>202 S 1st St, Mt Vernon, 98273, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>202 S 1st St, Mt Vernon, 98273,</address>
+			</Placemark>
+			<Placemark>
+				<name>901 James St, Seattle, 98104, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>901 James St, Seattle, 98104,</address>
+			</Placemark>
+			<Placemark>
+				<name>618 N st St, Tacoma, 98403, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>618 N st St, Tacoma, 98403,</address>
+			</Placemark>
+			<Placemark>
+				<name>200 36th St, Bellingham, 98225, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>200 36th St, Bellingham, 98225,</address>
+			</Placemark>
+			<Placemark>
+				<name>102 W Columbia , Nooksack, 98276, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>102 W Columbia , Nooksack, 98276,</address>
+			</Placemark>
+			<Placemark>
+				<name>901 39th Ave SW, Puyallup, 98373, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>901 39th Ave SW, Puyallup, 98373,</address>
+			</Placemark>
+			<Placemark>
+				<name>343 Winslow Way E, Bainbridge Island, 98110, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>343 Winslow Way E, Bainbridge Island, 98110,</address>
+			</Placemark>
+			<Placemark>
+				<name>4989 Lakemont Blvd SE, Bellevue, 98006, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>4989 Lakemont Blvd SE, Bellevue, 98006,</address>
+			</Placemark>
+			<Placemark>
+				<name>9740 SW Bank Rd, Vashon Island, 98070, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>9740 SW Bank Rd, Vashon Island, 98070,</address>
+			</Placemark>
+			<Placemark>
+				<name>888 116th Ave NE, Bellevue, 98004, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>888 116th Ave NE, Bellevue, 98004,</address>
+			</Placemark>
+			<Placemark>
+				<name>1030 Lakeway Dr, Bellingham, 98229, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1030 Lakeway Dr, Bellingham, 98229,</address>
+			</Placemark>
+			<Placemark>
+				<name>2800 196th St SW, Lynnwood, 98036, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2800 196th St SW, Lynnwood, 98036,</address>
+			</Placemark>
+			<Placemark>
+				<name>17991 NE Redmond Way, Redmond, 98052, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>17991 NE Redmond Way, Redmond, 98052,</address>
+			</Placemark>
+			<Placemark>
+				<name>1026 NE 64th St, Seattle, 98115, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>1026 NE 64th St, Seattle, 98115,</address>
+			</Placemark>
+			<Placemark>
+				<name>2210 Westlake Ave, Seattle, 98121, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2210 Westlake Ave, Seattle, 98121,</address>
+			</Placemark>
+			<Placemark>
+				<name>2001 15th Ave W, Seattle, 98119, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>2001 15th Ave W, Seattle, 98119,</address>
+			</Placemark>
+			<Placemark>
+				<name>3515 Bridgeport Way W, University Place, 98466, </name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<address>3515 Bridgeport Way W, University Place, 98466,</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
