@@ -1651,7 +1651,7 @@
 			</ExtendedData>
 			<address>3515 Bridgeport Way W, University Place, 98466,</address>
 		</Placemark>
-		<Style id='icon-1534-F9A825-normal'>
+		<Style id='icon-1534-F9A825'>
 			<IconStyle>
 				<color>ff25A8F9</color>
 				<scale>1.0</scale>
@@ -1659,31 +1659,6 @@
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
 			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
 		</Style>
-		<Style id='icon-1534-F9A825-highlight'>
-			<IconStyle>
-				<color>ff25A8F9</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>1.0</scale>
-			</LabelStyle>
-		</Style>
-		<StyleMap id='icon-1534-F9A825'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-1534-F9A825-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-1534-F9A825-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 	</Document>
 </kml>
