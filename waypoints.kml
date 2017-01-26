@@ -1,0 +1,790 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Waypoints</name>
+		<Placemark>
+			<name>1400 N.W 56th St., Seattle, 98107</name>
+			<description><![CDATA[1400 NW 56th St, Seattle, WA 98107, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.374134,47.669853,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20150 Ballinger Way NE, Shoreline, 98155,</name>
+			<description><![CDATA[20150 Ballinger Way NE, Shoreline, WA 98155, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.31071,47.776618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1220 N Forest St, Bellingham, 98225,</name>
+			<description><![CDATA[1220 N Forest St, Bellingham, WA 98225, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.47622,48.74728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>315 Westerly Rd, Bellingham, 98226,</name>
+			<description><![CDATA[315 Westerly Rd, Bellingham, WA 98226, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.492348,48.791502,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1600 E. Madison St, Seattle, 98122,</name>
+			<description><![CDATA[1600 E Madison St, Seattle, WA 98122, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.311231,47.615327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15605 Main St, Mill Creek, 98012,</name>
+			<description><![CDATA[15605 Main St, Mill Creek, WA 98012, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.219558,47.856402,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20148 10th Ave. NE, Poulsbo, 98370,</name>
+			<description><![CDATA[20148 10th Ave NE, Poulsbo, WA 98370, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.63675,47.746022,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15505 Westminster Way N., Shoreline, 98133,</name>
+			<description><![CDATA[15505 Westminster Way N, Shoreline, WA 98133, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.350318,47.742615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7320 Lakewood Dr W, Lakewood, 98467,</name>
+			<description><![CDATA[7320 Lakewood Dr W, Lakewood, WA 98499, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.509325,47.190892,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1406 Lake Tapps Parkway E, Auburn, 98092,</name>
+			<description><![CDATA[1406 Lake Tapps Pkwy E, Auburn, WA 98092, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.20966,47.24323,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2814 Meridian St, Bellingham, 98225,</name>
+			<description><![CDATA[2814 Meridian St, Bellingham, WA 98225, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.484411,48.767752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1401 12th St, Bellingham, 98225,</name>
+			<description><![CDATA[1401 12th St, Bellingham, WA 98225, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.501436,48.718992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>210 36th St, Bellingham, 98225,</name>
+			<description><![CDATA[210 36th St, Bellingham, WA 98225, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.471812,48.732652,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2900 Woburn, Bellingham, 98226,</name>
+			<description><![CDATA[2900 Woburn St, Bellingham, WA 98226, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.444572,48.768966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>757 Haggen Drive, Burlington, 98233,</name>
+			<description><![CDATA[757 Haggen Dr, Burlington, WA 98233, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.338886,48.46925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1815 Main St, Ferndale, 98248,</name>
+			<description><![CDATA[1815 Main St, Ferndale, WA 98248, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.580553,48.843091,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2601 E. Division, Mount Vernon, 98273,</name>
+			<description><![CDATA[2601 E Division St, Mt Vernon, WA 98273, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.307599,48.422242,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1301 Ave D, Snohomish, 98290,</name>
+			<description><![CDATA[1301 Ave D, Snohomish, WA 98290, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.096481,47.927725,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26603 72nd Ave NW, Stanwood, 98292,</name>
+			<description><![CDATA[26603 72nd Avenue Northwest, Stanwood, WA 98292, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.33024,48.23782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2121 6th Ave, Seattle, 98121,</name>
+			<description><![CDATA[2121 6th Ave, Seattle, WA 98121, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.340155,47.615134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7231 Greenwood Ave N., Seattle, 98103,</name>
+			<description><![CDATA[7231 Greenwood Ave N, Seattle, WA 98103, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.355663,47.681534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2919 Fuhrman Ave E, Seattle, 98102,</name>
+			<description><![CDATA[2919 Fuhrman Ave E, Seattle, WA 98102, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.317866,47.647509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5010 Point Fodick Dr NW, Gig Harbor, 98335,</name>
+			<description><![CDATA[5010 Point Fosdick Dr NW, Gig Harbor, WA 98335, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.581538,47.303795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4416 Fremont Ave N, Seattle, 98103,</name>
+			<description><![CDATA[4416 Fremont Ave N, Seattle, WA 98103, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.349632,47.660477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2565 S. Gateway Center Plaza, Federal Way, 98003,</name>
+			<description><![CDATA[2565 S Gateway Center Plaza, Federal Way, WA 98003, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.300054,47.316115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2951 S 38th St, Tacoma, 98409,</name>
+			<description><![CDATA[2951 S 38th St, Tacoma, WA 98409, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.476082,47.22298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10611 NE 68th St, Kirkland, ,</name>
+			<description><![CDATA[10611 NE 68th St, Kirkland, WA 98033, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.197289,47.665824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2320 42nd Ave SW, Seattle, ,</name>
+			<description><![CDATA[2320 42nd Ave SW, Seattle, WA 98116, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.384789,47.58196,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>100 Mercer St, Seattle, ,</name>
+			<description><![CDATA[100 Mercer St, Seattle, WA 98109, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.3548,47.62474,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5250 40th Ave NE, Seattle, ,</name>
+			<description><![CDATA[5250 40th Ave NE, Seattle, WA 98105, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.283622,47.668187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3830 34th Ave W, Seattle, ,</name>
+			<description><![CDATA[3830 34th Ave W, Seattle, WA 98199, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.40045,47.655286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2420 N. Proctor St, Tacoma, ,</name>
+			<description><![CDATA[2420 N Proctor St, Tacoma, WA 98406, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.489786,47.269512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2755 77th Ave SE, Mercer Island, 98040,</name>
+			<description><![CDATA[2755 77th Ave SE, Mercer Island, WA 98040, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.235784,47.585277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3111 Pacific Ave SE, Olympia, 98501,</name>
+			<description><![CDATA[3111 Pacific Ave SE, Olympia, WA 98501, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.856597,47.041986,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>921 Rogers St NW, Olympia, 98502,</name>
+			<description><![CDATA[921 Rogers St NW, Olympia, WA 98502, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.919031,47.053359,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6514 40th Ave. N.E., Seattle, 98115,</name>
+			<description><![CDATA[6514 40th Ave NE, Seattle, WA 98115, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.28435,47.676172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2261 Bothell Everett Hwy, Bothell, 98021,</name>
+			<description><![CDATA[Bothell Everett Hwy, Bothell, WA 98021, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.215066,47.793501,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9803 Edmonds Way, Edmonds, 98020,</name>
+			<description><![CDATA[9803 Edmonds Way, Edmonds, WA 98020, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.366073,47.7915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1810 12th Ave NW, Issaquah, 98027,</name>
+			<description><![CDATA[1810 12th Ave NW, Issaquah, WA 98027, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.055696,47.551576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11435 Avondale Rd NE, Redmond, 98052,</name>
+			<description><![CDATA[11435 Avondale Rd NE, Redmond, WA 98052, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.093426,47.701547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3610 S. Edmunds St, Seattle, 98118,</name>
+			<description><![CDATA[3610 S Edmunds St, Seattle, WA 98118, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.286642,47.55911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>600 N. 34th St, Seattle, 98103,</name>
+			<description><![CDATA[600 N 34th St, Seattle, WA 98103, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.351032,47.649922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7504 Aurora Ave N, Seattle, 98103,</name>
+			<description><![CDATA[7504 Aurora Ave N, Seattle, WA 98103, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.344101,47.683528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>450 NE 71st St, Seattle, 98115,</name>
+			<description><![CDATA[450 NE 71st St, Seattle, WA 98115, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.323085,47.680282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2479 California Ave SW, Seattle, 98116,</name>
+			<description><![CDATA[2479 California Ave SW, Seattle, WA 98116, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.38655,47.581339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1514 Pike Pl #3, Seattle, 98101,</name>
+			<description><![CDATA[1514 Pike Pl #3, Seattle, WA 98101, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.340976,47.609168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18325 Shoreline Ave N, Shoreline, 98133,</name>
+			<description><![CDATA[18325 Aurora Ave N, Seattle, WA 98133, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.347714,47.761954,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15800 Redmond Way, Redmond, 98052,</name>
+			<description><![CDATA[15800 Redmond Way, Redmond, WA 98052, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.1289,47.675824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3550 Factoria Blvd SE, Bellevue, 98006,</name>
+			<description><![CDATA[3550 Factoria Blvd SE, Bellevue, WA 98006, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.167477,47.578469,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2902 228th Ave SE, Sammamish, 98075,</name>
+			<description><![CDATA[2902 228th Ave SE, Sammamish, WA 98075, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.033702,47.582806,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4550 42nd Ave SW, Seattle, 98116,</name>
+			<description><![CDATA[4550 42nd Ave SW, Seattle, WA 98116, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.385099,47.561301,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15600 NE 8th St, Bellevue, 98008,</name>
+			<description><![CDATA[15600 NE 8th St, Bellevue, WA 98008, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.130604,47.618613,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>460 E. North Bend Way, North Bend, 98045,</name>
+			<description><![CDATA[460 E North Bend Way, North Bend, WA 98045, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-121.780571,47.493284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4101 49th Ave NE, Tacoma, 98422,</name>
+			<description><![CDATA[4101 49th Ave NE, Tacoma, WA 98422, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.380876,47.294044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11700 Mukilteo Speedway, Mukilteo, 98275,</name>
+			<description><![CDATA[11700 Mukilteo Speedway, Mukilteo, WA 98275, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.287249,47.891238,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7500-B 196th Street S.W., Lynnwood, 98036,</name>
+			<description><![CDATA[7500 196th St SW, Lynnwood, WA 98036, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.33471,47.820321,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14130 Juanita Drive N.E., Kirkland, 98038,</name>
+			<description><![CDATA[14130 Juanita Dr NE, Kirkland, WA 98034, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.243196,47.729349,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7823 SE 28th Street, Mercer Island, 98040,</name>
+			<description><![CDATA[7823 SE 28th St, Mercer Island, WA 98040, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.232744,47.584851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4570 Klahanie Dr SE, Issaquah, 98029,</name>
+			<description><![CDATA[4570 Klahanie Dr SE, Issaquah, WA 98029, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.003493,47.565646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1401 Broadway Avenue, Seattle, 98122,</name>
+			<description><![CDATA[1401 Broadway, Seattle, WA 98122, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.320961,47.61311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2707 Rainier Ave S, Seattle, 98144,</name>
+			<description><![CDATA[2707 Rainier Ave S, Seattle, WA 98144, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.299594,47.579068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22833 Bothell-Everett Hwy, Bothell, 98201,</name>
+			<description><![CDATA[22833 Bothell Everett Hwy, Bothell, WA 98021, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.216032,47.790167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22828 100th Ave W, Edmonds, 98020,</name>
+			<description><![CDATA[22828 100th Ave W, Edmonds, WA 98020, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.367816,47.791363,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4919 Evergreen Way, Everett, 98203,</name>
+			<description><![CDATA[4919 Evergreen Way, Everett, WA 98203, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.21214,47.952457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2615 Broadway, Everett, 98201,</name>
+			<description><![CDATA[2615 Broadway, Everett, WA 98201, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.200721,47.982833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>926 164th St SE, Mill Creek, 98012,</name>
+			<description><![CDATA[926 164th St SE, Mill Creek, WA 98012, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.219418,47.848516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22803 44th Ave W, Mountlake Terrace, 98043,</name>
+			<description><![CDATA[22803 44th Ave W, Mountlake Terrace, WA 98043, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.29065,47.79094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1531 NE 14th St, Seattle, 98155,</name>
+			<description><![CDATA[14th Avenue Northeast, Washington, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.315006,47.776016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8867 161st Ave NE, Redmond, 98052,</name>
+			<description><![CDATA[8867 161st Avenue Northeast, Redmond, WA 98052, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.126561,47.680791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1009 Monroe Ave, Enumclaw, 98022,</name>
+			<description><![CDATA[1009 Monroe Ave, Enumclaw, WA 98022, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-121.990621,47.200754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6600 Roosevelt Way NE, Seattle, 98115,</name>
+			<description><![CDATA[6600 Roosevelt Way NE, Seattle, WA 98115, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.316858,47.677037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4500 Wallingford Ave N, Seattle, 98103,</name>
+			<description><![CDATA[4500 Wallingford Ave N, Seattle, WA 98103, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.335897,47.661555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9999 Holman Rd NW, Seattle, 98117,</name>
+			<description><![CDATA[9999 Holman Rd NW, Seattle, WA 98117, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.36374,47.701785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8400 35th Ave NE, Seattle, 98115,</name>
+			<description><![CDATA[8400 35th Ave NE, Seattle, WA 98115, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.290166,47.689761,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23475 NE Novelty Hill Rd, Redmond, 98053,</name>
+			<description><![CDATA[23475 NE Novelty Hill Rd, Redmond, WA 98053, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.025939,47.698573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27008 92nd Ave NW, Stanwood, 98292,</name>
+			<description><![CDATA[27008 92nd Ave NW, Stanwood, WA 98292, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.359511,48.241004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>500 Mercer St, Seattle, 98109,</name>
+			<description><![CDATA[500 Mercer St, Seattle, WA 98109, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.347226,47.624734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4550 42nd Avenue S.W., Seattle, 98116,</name>
+			<description><![CDATA[4550 42nd Ave SW, Seattle, WA 98116, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.385099,47.561301,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>417 Broadway Avenue East, Seattle, 98102,</name>
+			<description><![CDATA[417 Broadway, Seattle, WA 98122, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.320811,47.605908,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5700 24th Avenue N.W., Seattle, 98107,</name>
+			<description><![CDATA[5700 24th Ave NW, Seattle, WA 98107, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.387102,47.670402,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>202 S 1st St, Mt Vernon, 98273,</name>
+			<description><![CDATA[202 S 1st St, Mt Vernon, WA 98273, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.336644,48.420924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>901 James St, Seattle, 98104,</name>
+			<description><![CDATA[901 James St, Seattle, WA 98104, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.324369,47.605528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>618 N st St, Tacoma, 98403,</name>
+			<description><![CDATA[618 N I St, Tacoma, WA 98403, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.458268,47.264417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>200 36th St, Bellingham, 98225,</name>
+			<description><![CDATA[200 36th St, Bellingham, WA 98225, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.470412,48.733291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>102 W Columbia , Nooksack, 98276,</name>
+			<description><![CDATA[102 W Columbia St, Nooksack, WA 98276, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.322294,48.920387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>901 39th Ave SW, Puyallup, 98373,</name>
+			<description><![CDATA[901 39th Ave SW, Puyallup, WA 98373, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.304424,47.155174,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>343 Winslow Way E, Bainbridge Island, 98110,</name>
+			<description><![CDATA[343 Winslow Way E, Bainbridge Island, WA 98110, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.517639,47.624316,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4989 Lakemont Blvd SE, Bellevue, 98006,</name>
+			<description><![CDATA[4989 Lakemont Blvd SE, Bellevue, WA 98006, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.115838,47.557888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9740 SW Bank Rd, Vashon Island, 98070,</name>
+			<description><![CDATA[9740 SW Bank Rd, Vashon, WA 98070, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.460063,47.447743,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>888 116th Ave NE, Bellevue, 98004,</name>
+			<description><![CDATA[888 116th Ave NE, Bellevue, WA 98004, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.184533,47.618221,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1030 Lakeway Dr, Bellingham, 98229,</name>
+			<description><![CDATA[1030 Lakeway Dr, Bellingham, WA 98229, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.461294,48.743592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2800 196th St SW, Lynnwood, 98036,</name>
+			<description><![CDATA[2800 196th St SW, Lynnwood, WA 98036, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.272304,47.81994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17991 NE Redmond Way, Redmond, 98052,</name>
+			<description><![CDATA[17991 Redmond Way, Redmond, WA 98052, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.10134,47.666093,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1026 NE 64th St, Seattle, 98115,</name>
+			<description><![CDATA[1026 NE 64th St, Seattle, WA 98115, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.316238,47.675294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2210 Westlake Ave, Seattle, 98121,</name>
+			<description><![CDATA[2210 Westlake Ave, Seattle, WA 98121, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.338061,47.618378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2001 15th Ave W, Seattle, 98119,</name>
+			<description><![CDATA[2001 15th Ave W, Seattle, WA 98119, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.376982,47.637198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3515 Bridgeport Way W, University Place, 98466,</name>
+			<description><![CDATA[3515 Bridgeport Way W, University Place, WA 98466, USA]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>-122.535977,47.22724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1899-0288D1'>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
