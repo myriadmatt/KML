@@ -1,0 +1,1663 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Tony's Cold Brew Data</name>
+		<Placemark>
+			<name>Ballard Market</name>
+			<description><![CDATA[Address: 1400 N.W 56th St., Seattle, 98107, <br>Phone: 206-783-7922<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1400 N.W 56th St., Seattle, 98107, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-783-7922</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1400 N.W 56th St., Seattle, 98107,</address>
+		</Placemark>
+		<Placemark>
+			<name>Ballinger Thriftway</name>
+			<description><![CDATA[Address: 20150 Ballinger Way NE, Shoreline, 98155, <br>Phone: 206-368-7221<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>20150 Ballinger Way NE, Shoreline, 98155, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-368-7221</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>20150 Ballinger Way NE, Shoreline, 98155,</address>
+		</Placemark>
+		<Placemark>
+			<name>Community Food Co-op</name>
+			<description><![CDATA[Address: 1220 N Forest St, Bellingham, 98225, <br>Phone: 360-734-8158<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1220 N Forest St, Bellingham, 98225, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-734-8158</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1220 N Forest St, Bellingham, 98225,</address>
+		</Placemark>
+		<Placemark>
+			<name>Community Food Co-op</name>
+			<description><![CDATA[Address: 315 Westerly Rd, Bellingham, 98226, <br>Phone: 360-734-8158<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>315 Westerly Rd, Bellingham, 98226, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-734-8158</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>315 Westerly Rd, Bellingham, 98226,</address>
+		</Placemark>
+		<Placemark>
+			<name>Central Coop</name>
+			<description><![CDATA[Address: 1600 E. Madison St, Seattle, 98122, <br>Phone: 206-329-1545<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1600 E. Madison St, Seattle, 98122, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-329-1545</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1600 E. Madison St, Seattle, 98122,</address>
+		</Placemark>
+		<Placemark>
+			<name>Central Market</name>
+			<description><![CDATA[Address: 15605 Main St, Mill Creek, 98012, <br>Phone: 425-357-3240<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>15605 Main St, Mill Creek, 98012, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-357-3240</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>15605 Main St, Mill Creek, 98012,</address>
+		</Placemark>
+		<Placemark>
+			<name>Central Market</name>
+			<description><![CDATA[Address: 20148 10th Ave. NE, Poulsbo, 98370, <br>Phone: 360-779-1881<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>20148 10th Ave. NE, Poulsbo, 98370, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-779-1881</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>20148 10th Ave. NE, Poulsbo, 98370,</address>
+		</Placemark>
+		<Placemark>
+			<name>Central Market</name>
+			<description><![CDATA[Address: 15505 Westminster Way N., Shoreline, 98133, <br>Phone: 206-363-9226<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>15505 Westminster Way N., Shoreline, 98133, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-363-9226</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>15505 Westminster Way N., Shoreline, 98133,</address>
+		</Placemark>
+		<Placemark>
+			<name>H&amp;L Produce</name>
+			<description><![CDATA[Address: 7320 Lakewood Dr W, Lakewood, 98467, <br>Phone: 253-471-1830<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>7320 Lakewood Dr W, Lakewood, 98467, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-471-1830</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>7320 Lakewood Dr W, Lakewood, 98467,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 1406 Lake Tapps Parkway E, Auburn, 98092, <br>Phone: 253-876-1700<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1406 Lake Tapps Parkway E, Auburn, 98092, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-876-1700</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1406 Lake Tapps Parkway E, Auburn, 98092,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 2814 Meridian St, Bellingham, 98225, <br>Phone: 360-671-3300<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2814 Meridian St, Bellingham, 98225, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-671-3300</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2814 Meridian St, Bellingham, 98225,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 1401 12th St, Bellingham, 98225, <br>Phone: 360-733-4370<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1401 12th St, Bellingham, 98225, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-733-4370</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1401 12th St, Bellingham, 98225,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 210 36th St, Bellingham, 98225, <br>Phone: 360-676-1996<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>210 36th St, Bellingham, 98225, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-676-1996</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>210 36th St, Bellingham, 98225,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 2900 Woburn, Bellingham, 98226, <br>Phone: 360-676-5300<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2900 Woburn, Bellingham, 98226, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-676-5300</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2900 Woburn, Bellingham, 98226,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 757 Haggen Drive, Burlington, 98233, <br>Phone: 360-814-1500<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>757 Haggen Drive, Burlington, 98233, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-814-1500</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>757 Haggen Drive, Burlington, 98233,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 1815 Main St, Ferndale, 98248, <br>Phone: 360-380-9000<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1815 Main St, Ferndale, 98248, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-380-9000</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1815 Main St, Ferndale, 98248,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 2601 E. Division, Mount Vernon, 98273, <br>Phone: 360-848-6999<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2601 E. Division, Mount Vernon, 98273, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-848-6999</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2601 E. Division, Mount Vernon, 98273,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 1301 Ave D, Snohomish, 98290, <br>Phone: 360-568-1395<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1301 Ave D, Snohomish, 98290, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-568-1395</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1301 Ave D, Snohomish, 98290,</address>
+		</Placemark>
+		<Placemark>
+			<name>Haggen</name>
+			<description><![CDATA[Address: 26603 72nd Ave NW, Stanwood, 98292, <br>Phone: 360-629-4400<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>26603 72nd Ave NW, Stanwood, 98292, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-629-4400</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>26603 72nd Ave NW, Stanwood, 98292,</address>
+		</Placemark>
+		<Placemark>
+			<name>Home Remedy</name>
+			<description><![CDATA[Address: 2121 6th Ave, Seattle, 98121, <br>Phone: 206-812-8407<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2121 6th Ave, Seattle, 98121, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-812-8407</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2121 6th Ave, Seattle, 98121,</address>
+		</Placemark>
+		<Placemark>
+			<name>Ken's on Greenwood</name>
+			<description><![CDATA[Address: 7231 Greenwood Ave N., Seattle, 98103, <br>Phone: 206-784-3470<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>7231 Greenwood Ave N., Seattle, 98103, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-784-3470</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>7231 Greenwood Ave N., Seattle, 98103,</address>
+		</Placemark>
+		<Placemark>
+			<name>Little Lago</name>
+			<description><![CDATA[Address: 2919 Fuhrman Ave E, Seattle, 98102, <br>Phone: 206-922-3324<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2919 Fuhrman Ave E, Seattle, 98102, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-922-3324</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2919 Fuhrman Ave E, Seattle, 98102,</address>
+		</Placemark>
+		<Placemark>
+			<name>Main &amp; Vine</name>
+			<description><![CDATA[Address: 5010 Point Fodick Dr NW, Gig Harbor, 98335, <br>Phone: 253-432-7116<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>5010 Point Fodick Dr NW, Gig Harbor, 98335, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-432-7116</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>5010 Point Fodick Dr NW, Gig Harbor, 98335,</address>
+		</Placemark>
+		<Placemark>
+			<name>Marketime</name>
+			<description><![CDATA[Address: 4416 Fremont Ave N, Seattle, 98103, <br>Phone: 206-632-8958<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4416 Fremont Ave N, Seattle, 98103, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-632-8958</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4416 Fremont Ave N, Seattle, 98103,</address>
+		</Placemark>
+		<Placemark>
+			<name>Marlene's</name>
+			<description><![CDATA[Address: 2565 S. Gateway Center Plaza, Federal Way, 98003, <br>Phone: 253-839-0933<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2565 S. Gateway Center Plaza, Federal Way, 98003, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-839-0933</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2565 S. Gateway Center Plaza, Federal Way, 98003,</address>
+		</Placemark>
+		<Placemark>
+			<name>Marlene's</name>
+			<description><![CDATA[Address: 2951 S 38th St, Tacoma, 98409, <br>Phone: 253-472-4080<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2951 S 38th St, Tacoma, 98409, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-472-4080</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2951 S 38th St, Tacoma, 98409,</address>
+		</Placemark>
+		<Placemark>
+			<name>Metropolitan Market</name>
+			<description><![CDATA[Address: 10611 NE 68th St, Kirkland, , <br>Phone: 425-454-0085<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>10611 NE 68th St, Kirkland, , </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-454-0085</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>10611 NE 68th St, Kirkland, ,</address>
+		</Placemark>
+		<Placemark>
+			<name>Metropolitan Market</name>
+			<description><![CDATA[Address: 2320 42nd Ave SW, Seattle, , <br>Phone: 206-937-0551<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2320 42nd Ave SW, Seattle, , </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-937-0551</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2320 42nd Ave SW, Seattle, ,</address>
+		</Placemark>
+		<Placemark>
+			<name>Metropolitan Market</name>
+			<description><![CDATA[Address: 100 Mercer St, Seattle, , <br>Phone: 206-213-0778<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>100 Mercer St, Seattle, , </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-213-0778</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>100 Mercer St, Seattle, ,</address>
+		</Placemark>
+		<Placemark>
+			<name>Metropolitan Market</name>
+			<description><![CDATA[Address: 5250 40th Ave NE, Seattle, , <br>Phone: 206-938-6600<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>5250 40th Ave NE, Seattle, , </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-938-6600</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>5250 40th Ave NE, Seattle, ,</address>
+		</Placemark>
+		<Placemark>
+			<name>Metropolitan Market</name>
+			<description><![CDATA[Address: 3830 34th Ave W, Seattle, , <br>Phone: 206-283-2710<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>3830 34th Ave W, Seattle, , </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-283-2710</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>3830 34th Ave W, Seattle, ,</address>
+		</Placemark>
+		<Placemark>
+			<name>Metropolitan Market</name>
+			<description><![CDATA[Address: 2420 N. Proctor St, Tacoma, , <br>Phone: 253-761-3663<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2420 N. Proctor St, Tacoma, , </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-761-3663</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2420 N. Proctor St, Tacoma, ,</address>
+		</Placemark>
+		<Placemark>
+			<name>New Seasons</name>
+			<description><![CDATA[Address: 2755 77th Ave SE, Mercer Island, 98040, <br>Phone: 206-232-2577<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2755 77th Ave SE, Mercer Island, 98040, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-232-2577</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2755 77th Ave SE, Mercer Island, 98040,</address>
+		</Placemark>
+		<Placemark>
+			<name>Olympia Food Co-op - Eastside</name>
+			<description><![CDATA[Address: 3111 Pacific Ave SE, Olympia, 98501, <br>Phone: 360-956-3870<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>3111 Pacific Ave SE, Olympia, 98501, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-956-3870</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>3111 Pacific Ave SE, Olympia, 98501,</address>
+		</Placemark>
+		<Placemark>
+			<name>Olympia Food Co-op</name>
+			<description><![CDATA[Address: 921 Rogers St NW, Olympia, 98502, <br>Phone: 360-754-7666<br>Availability: Chocolate Only]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>921 Rogers St NW, Olympia, 98502, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-754-7666</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Chocolate Only</value>
+				</Data>
+			</ExtendedData>
+			<address>921 Rogers St NW, Olympia, 98502,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 6514 40th Ave. N.E., Seattle, 98115, <br>Phone: 206-526-7661<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>6514 40th Ave. N.E., Seattle, 98115, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-526-7661</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>6514 40th Ave. N.E., Seattle, 98115,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 2261 Bothell Everett Hwy, Bothell, 98021, <br>Phone: 425-492-0122<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2261 Bothell Everett Hwy, Bothell, 98021, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-492-0122</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2261 Bothell Everett Hwy, Bothell, 98021,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 9803 Edmonds Way, Edmonds, 98020, <br>Phone: 425-275-9036<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>9803 Edmonds Way, Edmonds, 98020, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-275-9036</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>9803 Edmonds Way, Edmonds, 98020,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 1810 12th Ave NW, Issaquah, 98027, <br>Phone: 425-369-1222<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1810 12th Ave NW, Issaquah, 98027, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-369-1222</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1810 12th Ave NW, Issaquah, 98027,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 11435 Avondale Rd NE, Redmond, 98052, <br>Phone: 425-285-1400<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>11435 Avondale Rd NE, Redmond, 98052, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-285-1400</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>11435 Avondale Rd NE, Redmond, 98052,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 3610 S. Edmunds St, Seattle, 98118, <br>Phone: 206-466-6182<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>3610 S. Edmunds St, Seattle, 98118, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-466-6182</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>3610 S. Edmunds St, Seattle, 98118,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 600 N. 34th St, Seattle, 98103, <br>Phone: 206-632-6811<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>600 N. 34th St, Seattle, 98103, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-632-6811</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>600 N. 34th St, Seattle, 98103,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 7504 Aurora Ave N, Seattle, 98103, <br>Phone: 206-525-3586<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>7504 Aurora Ave N, Seattle, 98103, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-525-3586</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>7504 Aurora Ave N, Seattle, 98103,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 450 NE 71st St, Seattle, 98115, <br>Phone: 206-729-5075<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>450 NE 71st St, Seattle, 98115, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-729-5075</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>450 NE 71st St, Seattle, 98115,</address>
+		</Placemark>
+		<Placemark>
+			<name>PCC Natural Markets</name>
+			<description><![CDATA[Address: 2479 California Ave SW, Seattle, 98116, <br>Phone: 206-937-8481<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2479 California Ave SW, Seattle, 98116, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-937-8481</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2479 California Ave SW, Seattle, 98116,</address>
+		</Placemark>
+		<Placemark>
+			<name>Pike Place Market Creamery</name>
+			<description><![CDATA[Address: 1514 Pike Pl #3, Seattle, 98101, <br>Phone: 206-622-5029<br>Availability: Original Only]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1514 Pike Pl #3, Seattle, 98101, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-622-5029</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Original Only</value>
+				</Data>
+			</ExtendedData>
+			<address>1514 Pike Pl #3, Seattle, 98101,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 18325 Shoreline Ave N, Shoreline, 98133, <br>Phone: 206-546-0720<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>18325 Shoreline Ave N, Shoreline, 98133, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-546-0720</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>18325 Shoreline Ave N, Shoreline, 98133,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 15800 Redmond Way, Redmond, 98052, <br>Phone: 425-885-2311<br>Availability: Original Only]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>15800 Redmond Way, Redmond, 98052, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-885-2311</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Original Only</value>
+				</Data>
+			</ExtendedData>
+			<address>15800 Redmond Way, Redmond, 98052,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 3550 Factoria Blvd SE, Bellevue, 98006, <br>Phone: 425-643-7110<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>3550 Factoria Blvd SE, Bellevue, 98006, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-643-7110</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>3550 Factoria Blvd SE, Bellevue, 98006,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 2902 228th Ave SE, Sammamish, 98075, <br>Phone: 425-391-4680<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2902 228th Ave SE, Sammamish, 98075, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-391-4680</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2902 228th Ave SE, Sammamish, 98075,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 4550 42nd Ave SW, Seattle, 98116, <br>Phone: 206-923-6390<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4550 42nd Ave SW, Seattle, 98116, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-923-6390</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4550 42nd Ave SW, Seattle, 98116,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 15600 NE 8th St, Bellevue, 98008, <br>Phone: 425-865-0282<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>15600 NE 8th St, Bellevue, 98008, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-865-0282</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>15600 NE 8th St, Bellevue, 98008,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 460 E. North Bend Way, North Bend, 98045, <br>Phone: 425-888-1682<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>460 E. North Bend Way, North Bend, 98045, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-888-1682</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>460 E. North Bend Way, North Bend, 98045,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 4101 49th Ave NE, Tacoma, 98422, <br>Phone: 253-925-5040<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4101 49th Ave NE, Tacoma, 98422, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-925-5040</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4101 49th Ave NE, Tacoma, 98422,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 11700 Mukilteo Speedway, Mukilteo, 98275, <br>Phone: 425-290-6166<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>11700 Mukilteo Speedway, Mukilteo, 98275, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-290-6166</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>11700 Mukilteo Speedway, Mukilteo, 98275,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 7500-B 196th Street S.W., Lynnwood, 98036, <br>Phone: 425-774-5109<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>7500-B 196th Street S.W., Lynnwood, 98036, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-774-5109</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>7500-B 196th Street S.W., Lynnwood, 98036,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 14130 Juanita Drive N.E., Kirkland, 98038, <br>Phone: 425-821-4885<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>14130 Juanita Drive N.E., Kirkland, 98038, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-821-4885</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>14130 Juanita Drive N.E., Kirkland, 98038,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 7823 SE 28th Street, Mercer Island, 98040, <br>Phone: 206-230-0745<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>7823 SE 28th Street, Mercer Island, 98040, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-230-0745</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>7823 SE 28th Street, Mercer Island, 98040,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 4570 Klahanie Dr SE, Issaquah, 98029, <br>Phone: 425-392-2776<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4570 Klahanie Dr SE, Issaquah, 98029, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-392-2776</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4570 Klahanie Dr SE, Issaquah, 98029,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 1401 Broadway Avenue, Seattle, 98122, <br>Phone: 206-860-3818<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1401 Broadway Avenue, Seattle, 98122, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-860-3818</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1401 Broadway Avenue, Seattle, 98122,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 2707 Rainier Ave S, Seattle, 98144, <br>Phone: 206-725-2418<br>Availability: Original Only]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2707 Rainier Ave S, Seattle, 98144, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-725-2418</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Original Only</value>
+				</Data>
+			</ExtendedData>
+			<address>2707 Rainier Ave S, Seattle, 98144,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 22833 Bothell-Everett Hwy, Bothell, 98201, <br>Phone: 425-485-1991<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>22833 Bothell-Everett Hwy, Bothell, 98201, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-485-1991</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>22833 Bothell-Everett Hwy, Bothell, 98201,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 22828 100th Ave W, Edmonds, 98020, <br>Phone: 425-775-0542<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>22828 100th Ave W, Edmonds, 98020, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-775-0542</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>22828 100th Ave W, Edmonds, 98020,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 4919 Evergreen Way, Everett, 98203, <br>Phone: 425-259-3444<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4919 Evergreen Way, Everett, 98203, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-259-3444</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4919 Evergreen Way, Everett, 98203,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 2615 Broadway, Everett, 98201, <br>Phone: 425-259-6061<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2615 Broadway, Everett, 98201, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-259-6061</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2615 Broadway, Everett, 98201,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 926 164th St SE, Mill Creek, 98012, <br>Phone: 425-742-3240<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>926 164th St SE, Mill Creek, 98012, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-742-3240</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>926 164th St SE, Mill Creek, 98012,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 22803 44th Ave W, Mountlake Terrace, 98043, <br>Phone: 425-771-3962<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>22803 44th Ave W, Mountlake Terrace, 98043, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-771-3962</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>22803 44th Ave W, Mountlake Terrace, 98043,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 1531 NE 14th St, Seattle, 98155, <br>Phone: 206-363-5717<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1531 NE 14th St, Seattle, 98155, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-363-5717</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1531 NE 14th St, Seattle, 98155,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 8867 161st Ave NE, Redmond, 98052, <br>Phone: 425-869-8006<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>8867 161st Ave NE, Redmond, 98052, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-869-8006</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>8867 161st Ave NE, Redmond, 98052,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 1009 Monroe Ave, Enumclaw, 98022, <br>Phone: 360-825-5155<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1009 Monroe Ave, Enumclaw, 98022, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-825-5155</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1009 Monroe Ave, Enumclaw, 98022,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 6600 Roosevelt Way NE, Seattle, 98115, <br>Phone: 206-525-5731<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>6600 Roosevelt Way NE, Seattle, 98115, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-525-5731</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>6600 Roosevelt Way NE, Seattle, 98115,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 4500 Wallingford Ave N, Seattle, 98103, <br>Phone: 206-632-9253<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4500 Wallingford Ave N, Seattle, 98103, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-632-9253</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4500 Wallingford Ave N, Seattle, 98103,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 9999 Holman Rd NW, Seattle, 98117, <br>Phone: 206-783-8888<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>9999 Holman Rd NW, Seattle, 98117, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-783-8888</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>9999 Holman Rd NW, Seattle, 98117,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 8400 35th Ave NE, Seattle, 98115, <br>Phone: 206-523-5847<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>8400 35th Ave NE, Seattle, 98115, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-523-5847</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>8400 35th Ave NE, Seattle, 98115,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 23475 NE Novelty Hill Rd, Redmond, 98053, <br>Phone: 425-636-0420<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>23475 NE Novelty Hill Rd, Redmond, 98053, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-636-0420</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>23475 NE Novelty Hill Rd, Redmond, 98053,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 27008 92nd Ave NW, Stanwood, 98292, <br>Phone: 360-629-2500<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>27008 92nd Ave NW, Stanwood, 98292, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-629-2500</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>27008 92nd Ave NW, Stanwood, 98292,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 500 Mercer St, Seattle, 98109, <br>Phone: 206-352-4020<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>500 Mercer St, Seattle, 98109, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-352-4020</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>500 Mercer St, Seattle, 98109,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 4550 42nd Avenue S.W., Seattle, 98116, <br>Phone: 206-923-6390<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4550 42nd Avenue S.W., Seattle, 98116, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-923-6390</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4550 42nd Avenue S.W., Seattle, 98116,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 417 Broadway Avenue East, Seattle, 98102, <br>Phone: 206-328-6920<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>417 Broadway Avenue East, Seattle, 98102, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-328-6920</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>417 Broadway Avenue East, Seattle, 98102,</address>
+		</Placemark>
+		<Placemark>
+			<name>QFC</name>
+			<description><![CDATA[Address: 5700 24th Avenue N.W., Seattle, 98107, <br>Phone: 206-297-2150<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>5700 24th Avenue N.W., Seattle, 98107, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-297-2150</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>5700 24th Avenue N.W., Seattle, 98107,</address>
+		</Placemark>
+		<Placemark>
+			<name>Skagit Valley Food Co-op</name>
+			<description><![CDATA[Address: 202 S 1st St, Mt Vernon, 98273, <br>Phone: 360-336-9777<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>202 S 1st St, Mt Vernon, 98273, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-336-9777</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>202 S 1st St, Mt Vernon, 98273,</address>
+		</Placemark>
+		<Placemark>
+			<name>Stockbox</name>
+			<description><![CDATA[Address: 901 James St, Seattle, 98104, <br>Phone: 206-829-9940<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>901 James St, Seattle, 98104, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-829-9940</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>901 James St, Seattle, 98104,</address>
+		</Placemark>
+		<Placemark>
+			<name>Stadium Thriftway</name>
+			<description><![CDATA[Address: 618 N st St, Tacoma, 98403, <br>Phone: 253-627-8275<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>618 N st St, Tacoma, 98403, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-627-8275</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>618 N st St, Tacoma, 98403,</address>
+		</Placemark>
+		<Placemark>
+			<name>Starvin' Sam's</name>
+			<description><![CDATA[Address: 200 36th St, Bellingham, 98225, <br>Phone: 360-671-1625<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>200 36th St, Bellingham, 98225, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-671-1625</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>200 36th St, Bellingham, 98225,</address>
+		</Placemark>
+		<Placemark>
+			<name>Starvin' Sam's</name>
+			<description><![CDATA[Address: 102 W Columbia , Nooksack, 98276, <br>Phone: 360-966-4994<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>102 W Columbia , Nooksack, 98276, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-966-4994</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>102 W Columbia , Nooksack, 98276,</address>
+		</Placemark>
+		<Placemark>
+			<name>Tacoma Boys</name>
+			<description><![CDATA[Address: 901 39th Ave SW, Puyallup, 98373, <br>Phone: 253-864-8568<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>901 39th Ave SW, Puyallup, 98373, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-864-8568</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>901 39th Ave SW, Puyallup, 98373,</address>
+		</Placemark>
+		<Placemark>
+			<name>Town &amp; Country Market</name>
+			<description><![CDATA[Address: 343 Winslow Way E, Bainbridge Island, 98110, <br>Phone: 206-842-3848<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>343 Winslow Way E, Bainbridge Island, 98110, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-842-3848</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>343 Winslow Way E, Bainbridge Island, 98110,</address>
+		</Placemark>
+		<Placemark>
+			<name>Town &amp; Country Market</name>
+			<description><![CDATA[Address: 4989 Lakemont Blvd SE, Bellevue, 98006, <br>Phone: 206-653-2261<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>4989 Lakemont Blvd SE, Bellevue, 98006, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-653-2261</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>4989 Lakemont Blvd SE, Bellevue, 98006,</address>
+		</Placemark>
+		<Placemark>
+			<name>Vashon Thriftway</name>
+			<description><![CDATA[Address: 9740 SW Bank Rd, Vashon Island, 98070, <br>Phone: 206-463-2100<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>9740 SW Bank Rd, Vashon Island, 98070, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-463-2100</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>9740 SW Bank Rd, Vashon Island, 98070,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 888 116th Ave NE, Bellevue, 98004, <br>Phone: 425-462-1400<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>888 116th Ave NE, Bellevue, 98004, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-462-1400</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>888 116th Ave NE, Bellevue, 98004,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 1030 Lakeway Dr, Bellingham, 98229, <br>Phone: 360-714-6820<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1030 Lakeway Dr, Bellingham, 98229, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>360-714-6820</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1030 Lakeway Dr, Bellingham, 98229,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 2800 196th St SW, Lynnwood, 98036, <br>Phone: 425-775-1320<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2800 196th St SW, Lynnwood, 98036, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-775-1320</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2800 196th St SW, Lynnwood, 98036,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 17991 NE Redmond Way, Redmond, 98052, <br>Phone: 425-881-2600<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>17991 NE Redmond Way, Redmond, 98052, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>425-881-2600</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>17991 NE Redmond Way, Redmond, 98052,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 1026 NE 64th St, Seattle, 98115, <br>Phone: 206-985-1500<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>1026 NE 64th St, Seattle, 98115, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-985-1500</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>1026 NE 64th St, Seattle, 98115,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 2210 Westlake Ave, Seattle, 98121, <br>Phone: 206-621-9700<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2210 Westlake Ave, Seattle, 98121, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-621-9700</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2210 Westlake Ave, Seattle, 98121,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 2001 15th Ave W, Seattle, 98119, <br>Phone: 206-352-5440<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>2001 15th Ave W, Seattle, 98119, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>206-352-5440</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>2001 15th Ave W, Seattle, 98119,</address>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods</name>
+			<description><![CDATA[Address: 3515 Bridgeport Way W, University Place, 98466, <br>Phone: 253-534-4500<br>Availability: Both]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Address'>
+					<value>3515 Bridgeport Way W, University Place, 98466, </value>
+				</Data>
+				<Data name='Phone'>
+					<value>253-534-4500</value>
+				</Data>
+				<Data name='Availability'>
+					<value>Both</value>
+				</Data>
+			</ExtendedData>
+			<address>3515 Bridgeport Way W, University Place, 98466,</address>
+		</Placemark>
+		<Style id='icon-1899-0288D1'>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
